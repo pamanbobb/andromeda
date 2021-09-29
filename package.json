@@ -1,0 +1,21 @@
+{
+  "name": "instajs_endpoint",
+  "version": "1.0.0",
+  "description": "next_js_api",
+  "main": "app.js",
+  "dependencies": {
+    "@androz2091/insta.js": "^1.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nextJS",
+    "instapi"
+  ],
+  "author": "pamanbob",
+  "license": "ISC"
+}
